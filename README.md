@@ -1,1 +1,1 @@
-# covid_project
+# Covid Project
