@@ -13,7 +13,9 @@ Communication about what is happening in the region with the new disease is a li
 Little did we know about this contest, thanks to a teacher who inspired us to enter. We chose this challenge because we are confident in our ability and experience to withstand work under pressure. 
 
  Although we don't have many hardware resources, we tried to use the ones we have at our disposal. Because of the pandemic, getting a good team has not been difficult.   
- 
+
+# Tags
+#environment , #economy, #Comunication, #team, #earth, #covid-19, #Panama
  
  # Data & Resources
  
