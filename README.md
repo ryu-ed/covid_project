@@ -14,6 +14,13 @@ Communication about what is happening in the region with the new disease is a li
 Little did we know about this contest, thanks to a teacher who inspired us to enter. We chose this challenge because we are confident in our ability and experience to withstand work under pressure. 
 
  Although we don't have many hardware resources, we tried to use the ones we have at our disposal. Because of the pandemic, getting a good team has not been difficult.   
+ 
+# Team
+1- Eduardo Díaz del Castillo
+2- Astrid Hurley
+3- Abdiel Alveo
+4- Leonardo Rodríguez
+5- Kevin Ruedas
 
 # Tags
 #environment , #economy, #Comunication, #team, #earth, #covid-19, #Panama
